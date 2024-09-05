@@ -52,6 +52,8 @@
 
 <p align="left">portuguese [PT-BR]: native<br>english: fluent<br>spanish: begginer</p>
 
+---
+
 ###
 
 <br clear="both">
